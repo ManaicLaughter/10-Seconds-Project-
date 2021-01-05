@@ -11,5 +11,7 @@ A small code to print our childhood's famous XOXO game grid in python window. I 
 ## Avoid Calls
 Their are unwanted people / unwanted situations when we want to avoid certain phone calls. Using this py code you can make bot say an excuse on phone call. The bot voice makes listner thing that's it a legit issue and you can successfully avoid the call. Best part is you can make bot say anything:)
 
+## Security Camera
+30 lines of Python code to build a security camera with advanced burglar detection techniques.
 
 #### More Quick Projects Coming Soon.......
